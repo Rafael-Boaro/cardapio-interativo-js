@@ -93,7 +93,7 @@ Você **não** precisa de um "Live Server" do VS Code. O nosso back-end já est�
 
 * **Super Admin:**
     * **Usuário:** `admin`
-    * **Senha:** `[ADICIONE A SENHA QUE VOCÊ CADASTROU AQUI]` (Lembre-se de que alteramos ela manualmente).
+    * **Senha:** `adm123` (Lembre-se de que alteramos ela manualmente).
 * **Admin da Loja:**
     * Cadastre uma nova conta (ex: `loja1`) através do painel do `superadmin` (`/superadmin.html`).
 
